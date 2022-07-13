@@ -14,12 +14,12 @@
   {
    "cell_type": "code",
    "execution_count": null,
-<<<<<<< HEAD:apy_new.ipynb
+
    "id": "acc3c5bd",
    "metadata": {},
    "outputs": [],
    "source": []
-=======
+
    "id": "162348db",
    "metadata": {},
    "outputs": [],
@@ -31,12 +31,12 @@
     "def map():\n",
     "return render_template('map.html')"
    ]
->>>>>>> ticket3:apy_new.py.ipynb
+
   },
   {
    "cell_type": "code",
    "execution_count": null,
-<<<<<<< HEAD:apy_new.ipynb
+
    "id": "163476d0",
    "metadata": {},
    "outputs": [],
@@ -47,7 +47,7 @@
     "return render_template('index.html')\n",
     "if __name__ == '__main__':\n",
     "app.run(host='0.0.0.0',port=1991, debug=True)"
-=======
+
    "id": "a85d67d7",
    "metadata": {},
    "outputs": [],
@@ -58,7 +58,7 @@
     "@app.route(\"/map\")\n",
     "def map():\n",
     "return render_template('map.html')"
->>>>>>> ticket3:apy_new.py.ipynb
+
    ]
   }
  ],
